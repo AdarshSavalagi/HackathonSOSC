@@ -28,9 +28,10 @@ This fullstack app, developed during the Sahyadri College of Engineering hackath
 - **Award:** First Prize
 
 ## Contributors
-- [Adarsh Savalagi](https://github.com/AdarshSavalagi) - Developer
-- [Add Contributor Name](https://github.com/username) - Role
-
+- [Swathi](https://github.com/SwathiSherigar)
+- [Adarsh Savalagi](https://github.com/AdarshSavalagi)
+- [Abishai](https://github.com/abishaikanhiram)
+- [Saji P J]()
 ## Screenshots (if available)
 ***Frontend Mobile UI***
 ![Screenshot 2](Screenshots/IntroPage.jpg)
