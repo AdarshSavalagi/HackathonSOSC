@@ -36,27 +36,27 @@ This fullstack app, developed during the Sahyadri College of Engineering hackath
 ***Frontend Mobile UI***
 
 Intro Page  
-![Intro Page](Screenshots/IntroPage.jpg)
+![Intro Page](/Screenshots/IntroPage.jpg)
 
 Home Page  
-![Home Page](Screenshots/HomePage.jpg)
+![Home Page](/Screenshots/HomePage.jpg)
 
 Bidding Page  
-![Bidding Page](Screenshots/BiddingPage.jpg)
+![Bidding Page](/Screenshots/BiddingPage.jpg)
 
 Product Description Page  
-![Product Description Page](Screenshots/ProductDescriptionPage.jpg)
+![Product Description Page](/Screenshots/ProductDescriptionPage.jpg)
 
 ***Admin panel***
 
 Admin Dashboard  
-![Admin Dashboard](Screenshots/AdminDashboard.png)
+![Admin Dashboard](/Screenshots/AdminDashboard.png)
 
 Adding Product  
-![Adding Product](Screenshots/AddingProduct.png)
+![Adding Product](/Screenshots/AddingProduct.png)
 
 Products Overview  
-![Products Overview](Screenshots/ProductsOverview.png)
+![Products Overview](/Screenshots/ProductsOverview.png)
 
 
 
