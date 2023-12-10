@@ -33,16 +33,16 @@ This fullstack app, developed during the Sahyadri College of Engineering hackath
 - [Abishai](https://github.com/abishaikanhiram)
 - [Saji P J]()
 ## Screenshots 
-***Frontend Mobile UI***
-Intro Page <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/68dc2484-a600-4edb-9ce3-d5c416807a22" alt="Intro Page" width="200"/>
-Home Page <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/b240640b-f3fb-43f1-a574-6c349b6f831e" alt="Home Page" width="200"/>
-Bidding Page <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/f467b36a-4b6c-4168-9024-ee674283575b" alt="Bidding Page" width="200"/>
-Product Description Page <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/6eb89e95-f4b4-4310-8f95-e313d93d1efd" alt="Product Description Page" width="200"/>
+***Frontend Mobile UI***<br>
+<br>Intro Page<br> <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/68dc2484-a600-4edb-9ce3-d5c416807a22" alt="Intro Page" width="200"/>
+<br>Home Page<br> <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/b240640b-f3fb-43f1-a574-6c349b6f831e" alt="Home Page" width="200"/>
+<br>Bidding Page<br> <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/f467b36a-4b6c-4168-9024-ee674283575b" alt="Bidding Page" width="200"/>
+<br>Product Description Page<br> <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/6eb89e95-f4b4-4310-8f95-e313d93d1efd" alt="Product Description Page" width="200"/><br><br>
 
-***Admin panel***
-Admin Dashboard <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/16c5ddb8-9c80-471d-9d2c-3ebc20cf5db2" alt="Admin Dashboard" width="300"/>
-Adding Product <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/4e96fce3-9c19-4810-aac5-43b0288a8f30" alt="Adding Product" width="300"/>
-Products Overview <img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/fd5a8614-582c-490f-82c8-da00e958a641" alt="Products Overview" width="300"/>
+***Admin panel***<br>
+<br>Admin Dashboard <br><img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/16c5ddb8-9c80-471d-9d2c-3ebc20cf5db2" alt="Admin Dashboard" width="300"/>
+<br>Adding Product <br><img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/4e96fce3-9c19-4810-aac5-43b0288a8f30" alt="Adding Product" width="300"/>
+<br>Products Overview <br><img src="https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/fd5a8614-582c-490f-82c8-da00e958a641" alt="Products Overview" width="300"/><br><br>
 
 
 
