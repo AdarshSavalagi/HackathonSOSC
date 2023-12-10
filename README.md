@@ -35,21 +35,23 @@ This fullstack app, developed during the Sahyadri College of Engineering hackath
 ## Screenshots 
 ***Frontend Mobile UI***
 Intro Page
-![apple-pay](https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/d533b4ba-2db5-43ab-8c90-351e07d63723)
-
+![IntroPage](https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/68dc2484-a600-4edb-9ce3-d5c416807a22)
 Home Page
-<img src="Screenshots/HomePage.jpg">
+![HomePage](https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/b240640b-f3fb-43f1-a574-6c349b6f831e)
 Bidding Page
-<img src="Screenshots/BiddingPage.jpg">
+![Bidding Page](https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/f467b36a-4b6c-4168-9024-ee674283575b)
+
 Product Description Page
-<img src="Screenshots/ProductDescriptionPage.jpg">
+![ProductDescriptionPage](https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/6eb89e95-f4b4-4310-8f95-e313d93d1efd)
+
 ***Admin panel***
 Admin Dashboard
-<img src="Screenshots/AdminDashboard.png">
+![AdminDashboard](https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/16c5ddb8-9c80-471d-9d2c-3ebc20cf5db2)
 Adding Product
-<img src="Screenshots/AddingProduct.png">
+![Adding Product](https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/4e96fce3-9c19-4810-aac5-43b0288a8f30)
 Products Overview
-<img src="Screenshots/ProductsOverview.png">
+![Products overview](https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/fd5a8614-582c-490f-82c8-da00e958a641)
+
 
 ## License
 This project is licensed under [MIT License](LICENSE).
