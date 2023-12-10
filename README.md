@@ -36,7 +36,8 @@ This fullstack app, developed during the Sahyadri College of Engineering hackath
 ***Frontend Mobile UI***
 Intro Page
 <p>
-<img src="Screenshots/IntroPage.jpg">
+<img src="Screenshots/IntroPage.jpg">![apple-pay](https://github.com/AdarshSavalagi/HackathonSOSC/assets/120472249/d533b4ba-2db5-43ab-8c90-351e07d63723)
+
 </p>
 Home Page
 <img src="Screenshots/HomePage.jpg">
