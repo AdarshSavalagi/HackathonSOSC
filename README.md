@@ -32,7 +32,7 @@ This fullstack app, developed during the Sahyadri College of Engineering hackath
 - [Adarsh Savalagi](https://github.com/AdarshSavalagi)
 - [Abishai](https://github.com/abishaikanhiram)
 - [Saji P J]()
-## Screenshots (if available)
+## Screenshots 
 ***Frontend Mobile UI***
 ![Intro Page](Screenshots/IntroPage.jpg)
 ![Home Page](Screenshots/HomePage.jpg)
