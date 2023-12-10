@@ -34,14 +34,15 @@ This fullstack app, developed during the Sahyadri College of Engineering hackath
 - [Saji P J]()
 ## Screenshots (if available)
 ***Frontend Mobile UI***
-![Screenshot 2](Screenshots/IntroPage.jpg)
-![Screenshot 2](Screenshots/HomePage.jpg)
-![Screenshot 2](Screenshots/Bidding Page.jpg)
-![Screenshot 2](Screenshots/ProductDescriptionPage.jpg)
+![Intro Page](Screenshots/IntroPage.jpg)
+![Home Page](Screenshots/HomePage.jpg)
+![Bidding Page](Screenshots/BiddingPage.jpg)
+![Product Description Page](Screenshots/ProductDescriptionPage.jpg)
 ***Admin panel***
-![Screenshot 2](Screenshots/AdminDashboard.png)
-![Screenshot 1](Screenshots/Adding Product.png)
-![Screenshot 2](Screenshots/Products overview.png)
+![Admin Dashboard](Screenshots/AdminDashboard.png)
+![Adding Product](Screenshots/AddingProduct.png)
+![Products Overview](Screenshots/ProductsOverview.png)
+
 
 ## License
 This project is licensed under [MIT License](LICENSE).
